@@ -1,0 +1,6 @@
+baseURL: https://widyawan.web.id/
+languageCode: en-us
+title: My Hugo Site
+
+theme: ["PaperMod"]
+builddrafts : true
