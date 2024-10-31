@@ -56,16 +56,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hai... \U0001F44B"
+    Content: Selamat mengarungi catatan Widyawan yang ditulis untuk mengingatkan akan sesuatu hal penting dan kadang kurang penting juga. Rasakan juga tulisan yang berbau eAI ;)
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/cakwied"
+    - name: Tiktok
+      url: "https://tiktok.com/widyawan_s"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/widyawanS"
+    - name: ko-fi  
+      url: "https://saweria.co/widyawan"
 
   analytics:
     google:
