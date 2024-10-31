@@ -68,7 +68,7 @@ params:
       url: "https://tiktok.com/widyawan_s"
     - name: github
       url: "https://github.com/widyawanS"
-    - name: ko-fi  
+    - name: Ko-Fi  
       url: "https://saweria.co/widyawan"
 
   analytics:
@@ -85,8 +85,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/widyawanS/widwebid"
+    Text: "Edit Postingan" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -110,9 +110,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: shop
+      name: shop
+      url: https://widya.one
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
