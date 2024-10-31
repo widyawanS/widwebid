@@ -1,6 +1,6 @@
 [submodule "hugo-PaperMod"]
 	path = hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+	url = https://github.com/adityatelange/hugo-PaperMod/tree/a2eb47bb4b805116dcd34c1605d39835121f8dbe
 [submodule "hugo-PaperMod"]
 	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod/tree/a2eb47bb4b805116dcd34c1605d39835121f8dbe
+	url = https://github.com/adityatelange/hugo-PaperMod.git
