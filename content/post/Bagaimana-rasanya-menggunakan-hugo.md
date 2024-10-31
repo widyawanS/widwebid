@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -30,8 +30,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/widyawanS/widwebid/public/"
+    URL: "https://github.com/widyawanS/widwebid/public"
     Text: "Edit Postingan" # edit text
     appendFilePath: true # to append file path to Edit link
+description: "Gambaran tentang pengalaan pertama menggunakan hugo, yang banyak terkait dengan kode kode dan pengetahuan git, deploy"
 ---
 Sudah biasa menghadapai tantangan, namun tantangan yang baru membuat sedikit menghadapi kesulitN yang teradang melupkana hal liannya.... seperti membuat artikel untuk konten d blog.
