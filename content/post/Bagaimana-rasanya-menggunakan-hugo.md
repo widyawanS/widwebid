@@ -1,7 +1,7 @@
 ---
-date: '{{ .Date }}'
+date: '2024-10-31T17:18:01+07:00'
 draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'Bagaimana Rasanya Menggunakan Hugo'
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
@@ -34,3 +34,4 @@ editPost:
     Text: "Edit Postingan" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+Sudah biasa menghadapai tantangan, namun tantangan yang baru membuat sedikit menghadapi kesulitN yang teradang melupkana hal liannya.... seperti membuat artikel untuk konten d blog.

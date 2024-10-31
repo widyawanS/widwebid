@@ -59,7 +59,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hai... \U0001F44B"
-    Content: Selamat mengarungi catatan Widyawan yang ditulis untuk mengingatkan akan sesuatu hal penting dan kadang kurang penting juga. Rasakan juga tulisan yang berbau eAI ;)
+    Content: Selamat mengarungi catatan Widyawan yang ditulis untuk mengingatkannya pada sesuatu hal penting dan kadang kurang penting juga, dan rasakan juga tulisan yang berbau eAI ;)
 
   socialIcons:
     - name: x
@@ -85,7 +85,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/widyawanS/widwebid"
+    URL: "https://github.com/widyawanS/widwebid/public"
     Text: "Edit Postingan" # edit text
     appendFilePath: true # to append file path to Edit link
 
