@@ -12,6 +12,8 @@ minify:
   disableXML: true
   minifyOutput: false
 
+paginate: 5
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Gembira Ngebog dengan Hugo 
