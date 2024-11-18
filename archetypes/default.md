@@ -2,7 +2,7 @@
 date: '{{ .Date }}'
 draft: true
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-tags: ["first, Blog"]
+tags: "first, Blog, Digital"
 author: "Widyawan S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
