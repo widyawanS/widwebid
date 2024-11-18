@@ -2,7 +2,7 @@
 date: '{{ .Date }}'
 draft: true
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-tags: ["first"]
+tags: ["first, Blog"]
 author: "Widyawan S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -34,4 +34,5 @@ editPost:
     Text: "Edit Postingan" # edit text
     appendFilePath: true # to append file path to Edit link
 description: "Desc Text."
+featured_image : "<image path/url>" # image path/url
 ---
