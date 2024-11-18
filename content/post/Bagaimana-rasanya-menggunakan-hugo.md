@@ -35,4 +35,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 description: "Gambaran tentang pengalaan pertama menggunakan hugo, yang banyak terkait dengan kode kode dan pengetahuan git, deploy"
 ---
-Sudah biasa menghadapai tantangan, namun tantangan yang baru membuat sedikit menghadapi kesulitN yang teradang melupkana hal liannya.... seperti membuat artikel untuk konten d blog.
+Sudah biasa menghadapai tantangan, namun tantangan yang baru membuat sedikit menghadapi kesulitan yang teradang melupkana hal lainnya.... seperti membuat artikel untuk konten d blog.
