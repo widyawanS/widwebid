@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://widyawan.web.id/tags/blog-brand/</loc>
+    <lastmod>2024-11-18T08:47:54+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/post/ga-usah-pusing-mikirin-brand/</loc>
+    <lastmod>2024-11-18T08:47:54+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/</loc>
+    <lastmod>2024-11-18T08:47:54+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/post/</loc>
+    <lastmod>2024-11-18T08:47:54+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/tags/</loc>
+    <lastmod>2024-11-18T08:47:54+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/post/bagaimana-rasanya-menggunakan-hugo/</loc>
+    <lastmod>2024-10-31T17:18:01+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/tags/first/</loc>
+    <lastmod>2024-10-31T17:18:01+07:00</lastmod>
+  </url><url>
+    <loc>https://widyawan.web.id/post/tes-post-pertama/</loc>
     <lastmod>2024-10-31T08:18:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-10-31T08:18:06+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/tes-post-pertama/</loc>
-    <lastmod>2024-10-31T08:18:06+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://widyawan.web.id/categories/</loc>
   </url>
 </urlset>
