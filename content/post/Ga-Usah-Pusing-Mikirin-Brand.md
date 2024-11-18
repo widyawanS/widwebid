@@ -3,7 +3,7 @@ date: '2024-11-18T08:47:54+07:00'
 draft: true
 title: 'Ga Usah Pusing Mikirin Brand'
 tags: 'Blog, Brand'
-author: 'Widyawan S'
+author: "Widyawan S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
