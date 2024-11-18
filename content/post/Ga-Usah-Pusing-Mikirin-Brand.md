@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: images/branding.webp # image path/url
+    image: images/branding.WEBP # image path/url
     alt: "Fokus share brand nyusul" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
