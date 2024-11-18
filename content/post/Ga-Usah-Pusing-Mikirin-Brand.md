@@ -3,7 +3,7 @@ date: '2024-11-18T08:47:54+07:00'
 draft: true
 title: 'Ga Usah Pusing Mikirin Brand'
 tags: ["Blog, Brand"]
-author: "Me"
+author: "Widyawan S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/Fokus share brand nyusul.webp" # image path/url
+    image: "/images/Fokus-share-brand-nyusul.webp" # image path/url
     alt: "Fokus share brand nyusul" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
