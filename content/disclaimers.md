@@ -1,3 +1,12 @@
+--- 
+
+title: "About Us" 
+
+layout: "default" 
+
+description: "Learn more about our company."
+
+--- 
 Last Updated: [Tanggal]
 
 Konten yang disediakan di widyawan.web.id hanya bertujuan untuk memberikan informasi umum.
