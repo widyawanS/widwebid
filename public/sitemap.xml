@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/first-blog-digital/</loc>
-    <lastmod>2024-11-19T10:48:11+07:00</lastmod>
+    <lastmod>2024-11-19T11:53:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-19T10:48:11+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/privacy_policy/</loc>
-    <lastmod>2024-11-19T10:48:11+07:00</lastmod>
+    <lastmod>2024-11-19T11:53:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-19T11:53:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/</loc>
+    <lastmod>2024-11-19T11:53:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/privacy_policy/</loc>
     <lastmod>2024-11-19T10:48:11+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog-brand/</loc>
