@@ -73,13 +73,7 @@ params:
     - name: Ko-Fi  
       url: "https://saweria.co/widyawan"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+
 
   cover:
     hidden: false # hide everywhere but not in structured data
@@ -117,7 +111,7 @@ menu:
     - identifier: shop
       name: shop
       url: https://widya.one
-      weight: 30
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2024 08:18:06 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 08:47:54 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ga Usah Pusing Mikirin Brand</title>
+      <link>http://localhost:1313/post/ga-usah-pusing-mikirin-brand/</link>
+      <pubDate>Mon, 18 Nov 2024 08:47:54 +0700</pubDate>
+      <guid>http://localhost:1313/post/ga-usah-pusing-mikirin-brand/</guid>
+      <description>Fokus melakukan pekerjaan yang terbaik dalam hidupmu, enjoy it dan Brand mengikutimu</description>
+    </item>
+    <item>
+      <title>Bagaimana Rasanya Menggunakan Hugo</title>
+      <link>http://localhost:1313/post/bagaimana-rasanya-menggunakan-hugo/</link>
+      <pubDate>Thu, 31 Oct 2024 17:18:01 +0700</pubDate>
+      <guid>http://localhost:1313/post/bagaimana-rasanya-menggunakan-hugo/</guid>
+      <description>Gambaran tentang pengalaan pertama menggunakan hugo, yang banyak terkait dengan kode kode dan pengetahuan git, deploy</description>
+    </item>
     <item>
       <title>Tes Post Pertama</title>
       <link>http://localhost:1313/post/tes-post-pertama/</link>
