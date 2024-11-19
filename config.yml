@@ -14,7 +14,7 @@ minify:
 
 paginate: 5
 
-permalink: 
+permalinks: 
   post: ":slug"
 
 params:
