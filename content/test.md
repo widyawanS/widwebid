@@ -1,12 +1,13 @@
 ---
-date: '{{ .Date }}'
-draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+date: '2024-11-19T11:53:29+07:00'
+draft: false
+title: 'Test'
 tags: "first, Blog, Digital"
 author: "Widyawan S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
+draft: false
 hidemeta: false
 comments: false
 

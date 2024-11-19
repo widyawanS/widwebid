@@ -1,6 +1,5 @@
 ---
 date: '2024-11-19T10:48:11+07:00'
-draft: false
 title: 'Privacy_policy'
 tags: "first, Blog, Digital"
 author: "Widyawan S"
@@ -37,7 +36,7 @@ description: "Desc Text."
 featured_image : "<image path/url>" # image path/url
 ---
 Privacy Policy
-Last Updated: [19 Nov 2024]
+Last Updated: 19 Nov 2024
 
 Selamat datang di widyawan.web.id. Kami menghargai privasi Anda dan berkomitmen untuk melindungi informasi pribadi Anda.
 
