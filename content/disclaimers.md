@@ -1,7 +1,7 @@
 --- 
 title: "Disclaimers" 
 layout: "default" 
-description: "Halaman Disclaimers"
+description: "Halaman Disclaimers WidyawanWebId"
 draft: false
 --- 
 Last Updated: 19 Nov 2024
