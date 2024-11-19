@@ -1,6 +1,6 @@
 ---
 date: '2024-11-19T10:48:11+07:00'
-draft: true
+draft: false
 title: 'Privacy_policy'
 tags: "first, Blog, Digital"
 author: "Widyawan S"
