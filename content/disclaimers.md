@@ -1,13 +1,9 @@
 --- 
-
-title: "About Us" 
-
+title: "Disclaimers" 
 layout: "default" 
-
-description: "Learn more about our company."
-
+description: "Halaman Disclaimers"
 --- 
-Last Updated: [Tanggal]
+Last Updated: 19 Nov 2024
 
 Konten yang disediakan di widyawan.web.id hanya bertujuan untuk memberikan informasi umum.
 
